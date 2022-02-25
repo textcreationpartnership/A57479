@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Atlas maritimus, or The sea-atlas being a book of maritime cards. Describing the sea-coasts, capes, headlands, sands, shoals, rocks and dangers. The bays, roads, harbors, rivers and ports, in most of the known parts of the world, collected from the latest and best discoveries that have been made by divers able and experienced navigators.</title>
+            <author>Robijn, Jacobus, d. ca. 1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57479</idno>
+            <idno type="STC">Wing R1736A</idno>
+            <idno type="STC">ESTC R219727</idno>
+            <idno type="EEBO-CITATION">99831175</idno>
+            <idno type="PROQUEST">99831175</idno>
+            <idno type="VID">35638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35638)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Atlas maritimus, or The sea-atlas being a book of maritime cards. Describing the sea-coasts, capes, headlands, sands, shoals, rocks and dangers. The bays, roads, harbors, rivers and ports, in most of the known parts of the world, collected from the latest and best discoveries that have been made by divers able and experienced navigators.</title>
+                  <author>Robijn, Jacobus, d. ca. 1710.</author>
+               </titleStmt>
+               <extent>[6], [35] leaves of plate : maps  </extent>
+               <publicationStmt>
+                  <publisher>printed for Jacob Robyn, in the New Bridge street, in the Stuureman,</publisher>
+                  <pubPlace>At Amsterdam :</pubPlace>
+                  <date>168[2]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Entirely engraved except for four pages of text following engraved title page.</note>
+                  <note>Dedication signed and dated: Jacobus Robyn, At Amsterdam, the 25th day of July, 1682.</note>
+                  <note>The "2" in the imprint date has failed to print in copy catalogued.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35638:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>engraved title page</figDesc>
+            </figure>
+            <p>Atlas Maritimus, OR THE SEA-ATLAS, Being a Book of Maritime Cards.</p>
+            <p>
+               <hi>Deſcribing</hi> The Sea-Coaſts, Capes, Headlands, Sands, Shoals, Rocks and Dangers. The Bays, Roads, Harbors, Rivers and Ports, in moſt of the known Parts of the WORLD, Collected from the lateſt and beſt Diſcoveries that have been made: by divers able and experienced Navigators.</p>
+            <p>At AMSTERDAM, Printed for <hi>Jacob Robijn,</hi> in the New Bridge ſtreet, in the Stuureman, 168<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <figure>
+               <figDesc>engraved title page</figDesc>
+            </figure>
+            <pb facs="tcp:35638:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35638:2"/>
+            <head>TO THE Right Noble and Right Honourable JOAN HUYDEKOOPER, Knight, Lord of Maerſeveen, Neerdijck &amp;c. Ruling Burgermaſter and Counſelar of the city of Amſterdam.</head>
+            <opener>
+               <salute>
+                  <hi>Right Noble and Right Honorable</hi> LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince our worthy and loving Country know no fruitfuller tillage than to till the Sea diligently; by which we ſee continualy our ware-houſes filled with all ſorts of the moſt needful and moſt pretious Commodities in the world, which by our Ships and ſailers trading, are brought ſuperfluouſly to us out of all Countries and Kingdoms; diverſe perſons have endeavoured from time to time, to produce to that intent good and convenient Sea-books. By this the ſailer is guided and warned, to shun prudently all Rocks, Sands, Shelfs, Whirl-ſtreams and more ſuch like dangers, whereas the Seas and whirl-winds in the meantime threaten and ſometimes overcome them yet with many other difficulties. The experience (when Sailers and Pilots many ages have been forced to take care continually with the plum<g ref="char:EOLhyphen"/>met in hand) is come ſo far at laſt, that they have diſcovered lurking deceits of grounds nearer and nearer, that a many before us therefore have been able to ſet forth divers good books: but being ſuch books can never be without ſome fault, we have been very willing to beſtow our endeavour, trouble, care and charges, to mend all the faults in ſuch books, by certain and true obſervations of diverſe renowned Pilots exactly ſearched out. Chiefly where the time and the ſtreams often change the depthes and shelves, ſo that one may not ſafely truſt to the old books. We can aſſure all Gentlemen, Merchants and Sailers, that this our preſent work is more exact and more perfect than any yet extant, as it clearly will befound out by ſkilful Pilots. Thus we take here the boldneſs to Dedicate this ſame very Reverently and ſerviceably to your honour; where we ſee dayly with great ſatisfaction and thankfulneſs, what care you always take, for the Common welfare of our Country, this very magnificent and pourful city the ware-houſe for the whole world is come to ſuch hight by the navigation traffick, and maintained in it yet by the ſame with unfatigable deligence, and careful wiſe Contrivance of the very laudable regency; being hope flattereth us with truſting that this work (tending chiefly to the Common welfare) will be accepted of your honour with a bountiful eye. If I may enjoy ſo much hap<g ref="char:EOLhyphen"/>pineſs, I will acknowledge me ſo much the more obliged, to pray with all my heart continuely to the almighty, (as your noble blood now almoſt hereditarily poſſeſſeth the high and Burgermaſterly authority in this mighty city; and your honour enjoyeth for the preſent the Burgermaſtership the ſixth time with Renown and glory) that it may be his holy pleaſure, further in the future to let your honour enjoy the ſame worthy office and great Authority, ſeveral times for many years in full health, luck and ſatisfaction for the beſt of this city and eſtate, and that we may live merry, long quiet and well ſatisfied under ſuch a Government, ſince we take the ho<g ref="char:EOLhyphen"/>nour to call us ſelves</p>
+            <closer>
+               <salute>
+                  <hi>Right Noble and Right Honorable</hi> LORD,</salute> 
+               <signed>Your Honours, Moſt humble and muſt dutiful Servant, JACOBUS ROBYN.</signed>
+               <dateline>
+                  <hi>At Amſterdam,</hi> 
+                  <date>
+                     <hi>the 25<hi rend="sup">th.</hi> of July,</hi> 1682.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35638:3"/>
+            <head>A CHORT DECLARATION <hi>Of the diviſion, ſituation &amp; qualities of the</hi> EARTH.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning did the Ever<g ref="char:EOLhyphen"/>laſting &amp; almighty God, through his wiſdom, create the whole world out of nothing; &amp; joyned the Earth with the Sea together (as being the heavieſt) in one round form, in the manner of a ball, &amp; placed them in the center or midle point, as in the nether<g ref="char:EOLhyphen"/>moſt place; the heaven, as a tent, is with an un meaſurable breadth extended, over and about it, and adorned with many and glo<g ref="char:EOLhyphen"/>rious lights, as the Sunne, Moone, Planets, and other ſtarres innu<g ref="char:EOLhyphen"/>merable. And that the earth minght be a fit habitation or dwel<g ref="char:EOLhyphen"/>ling for man and other terreſtrial creatures, and through its plen<g ref="char:EOLhyphen"/>tiful fruit nouriſh and ſuſtain them, hath God exalted it above the waters, and ordained unto the Zea its place in the depths on ſuch a manner, that ſhee on every ſide comprehending the earth with its crookednes, doth diſtinguiſh and devide the ſame in three ſeveral pars of great continents, that is firm lands; over which the deſcribers of the earth (as the Aſtronomers over heaven) place vijf circkels; as the Aequinoctial, ſo called, be<g ref="char:EOLhyphen"/>cauſe night and day are over the whole earth of one lenght whenſoeuer the Son doth come in this circle, which happe<g ref="char:EOLhyphen"/>neth about the 21<hi rend="sup">th.</hi> of march and the 23<hi rend="sup">th</hi> of September. This circle is alſo called Aequator, to which when the Sunne com<g ref="char:EOLhyphen"/>meth, it maketh the dayes and the nights equal; the Marriners of the low countries doe call it the middle-line, becauſe it doth devide the face of the earth in two equal parts, where of the one tendeth towards the north, and the other towards the ſouth and ſo it is the very middle betwixt the Northern, and ſouthern lines, or Poles. The other is called Tropicus Cancri, or the Sunne turning of the Crab, becauſe the Sunne when it commeth to this circle about thay 21 thay of June, beginneth to turne to<g ref="char:EOLhyphen"/>wards the Aequator, and then it is the longeſt day to thoſe who live in the north, and the ſhorteſt to thoſe who live in the ſouth from the Aequator: this circle is ſituated 23 degrees 32<g ref="char:punc">▪</g> minutes north ward from the middle-line. The third is tear<g ref="char:EOLhyphen"/>med Tropicus Capricorni, or a Sunne-turning of the heaven called Capricorne, becauſe the Sunne, when it commeth to this circle, which is about the 23<hi rend="sup">th</hi> of December, beginneth to turne and to climb towards the Aequator; and then it is, contrary as before, the ſhorteſt day to thoſe who live in the North, and the longeſt to thoſe who live in the South of the mid-line: and this ſigne is ſituated 23 degrees, 31½ minuits in the South of the Aequinoctial. The 4<hi rend="sup">th</hi> is called Circulus Arcticus, the North<g ref="char:EOLhyphen"/>ern circle, and the 5<hi rend="sup">th</hi> Circulus Antarcticus, the Southern circle: theſe are ſituated 23 degrees 31½ minuits, the one from the Northern, and the other from the Southern pole or diame<g ref="char:EOLhyphen"/>ter of the world, and are through tbe circumrotation off the heaven deſcribed from the Pole of the Zodiak, or the courſe of the Sunne. The ancient and moſt ſkilful Aſtronomers under<g ref="char:EOLhyphen"/>ſtand by the Circulus Arcticus not onely this which is deſcri<g ref="char:EOLhyphen"/>bed; but ſuch a circle whoſe half Diameter or line which goeth through the midle point, is even as much as the hight of the pole from every place, comprehending al wayes thoſe ſtarres which before the hight of every land never goe under; in which regard this circle in all countries which differ in breath, doth differ, as alſo from Antarcticus: but in the aforeſayd de<g ref="char:EOLhyphen"/>ſcription wee followe the common manner of the deſcribers of countries. The earth is alſo through the aforenamed 4 laſt cir<g ref="char:EOLhyphen"/>cles devided in 5 great regions, by the Greek called Zonas, or girdels, becauſe that they in the form of girdels doe compaſſe the globe of the Earth. The firſt there of is environed or enclo<g ref="char:EOLhyphen"/>ſed within the northern circle, and beareth the name of the Northern cold region. The ſecond is called the Southern cold region, runing round about the Southern Pole within the Southern circle. The third, being the middlemoſt amongſt them all, is called the barren and hot region, and is ſituated between the Circles of the Cancer or Crab and the ſigne of Ca<g ref="char:EOLhyphen"/>pricornus. The 4<hi rend="sup">h</hi> is ſituated betwixt the Northern Circle and the Circle of the Crab, and is called the tempeted Northern Region. The laſt, called the Southern temperate region, is ſituated betwixt the Circle of Capricornus and the Southern Circle. The old-Philoſophers and Deſcribers of countries did ſuppoſe that of theſe vive the two temperate alone where inhabited, and that of the other three, the two cold ones could not be inhabited, in regard of the great intolerable cold, and the barren hot region, in regard of the burning heat of the Sun But time inconcluſion hath produced, the truth thereof: ſeing we have experienced about 150 years hence that they all are inhabited, but the cold leaſt of all, as Greenland, Iceland, Lapland, the utmoſt parts of Norway, and ſuch like countries. Experience likewiſe hath taught us that in the barren, hot re<g ref="char:EOLhyphen"/>gion the heat is not untolerable, neither doth it burn in ſuch a manner as the Ancient conceived: ſith there are found many excellent fruitful and populous Kingdoms, as Genee, Aethiope, Arabia, Eaſt-Indies, the famous Ilands Sumatra, Java, and Molucquen; as alſoo Breſil, Peru, New-Spain, and other ſuch like countries.</p>
+            <p>For to have the right underſtanding of the ſituation of coun<g ref="char:EOLhyphen"/>tries, wee muſt know that the deſcribers of the earth calculate the ſame according to the degrees of length and breadth. The breadth of places (which is alwayes alike at the height of the Pole) is accounted from the midle line to be twofold, North<g ref="char:EOLunhyphen"/>ward or Southward to the number of ninety. The length is accounted from te Meridian-line, which runneth over de Pico de Tayda in the Iland Teneriffa, along the midle-line towards the Eaſt, to the number of 360, as for example, Amſterdam is ſituated 52½ from the midle-line towards the North, which is the breadth or the Poles higth of the fame city, and in the length 23 degrees, becauſe the ſame doth agree with ſuch a de<g ref="char:EOLhyphen"/>gree of the Aequinoctial, calculating from the aforeſaid Meri<g ref="char:EOLhyphen"/>dian. De Cabo de Bona Eſperanca is ſituated on the breath Southward from 34½ degrees, and in the length from 42 degrees. The countries or cities ſituated under the ſame length haue al<g ref="char:EOLhyphen"/>wayes at one time and moment alike midday, and alike hour of the day: as when it is noon at Amſterdam then it is alſo noon at Bergen in Norway, at Lions in France, at Algiers in Barbary, and ſuch like places ſituated in one lenght. But thoſe which are ſituated under ſeverall degrees of length, differ likewiſe in the calculation of houres; ſo that when it is midday in the forenamed places, then it is at Bantam in the Iland Java 7 houres and 12 minutes in the afternoon, becauſe the ſame city is ſituated 108 degrees in the length toward the Eaſt, for it differs every 15 degrees one hour: but in the city Lima, laying in Peru, it is 6 houres in the fore-noon, becauſſe the ſame city is ſituated in the length about 90 degrees towards the Weſt, as Amſterdam. Thoſe alſo which are ſituated under the like breath or higth of the Pole, have alwayes alike length of dayes and nights: this is alſo to be underſtord, that thoſe who live on the ſouthſide of the midle-line have the ſhorteſt day, when we have the longeſt: as they have the Winter when we have the Sommer, and we the Winter, when they have the Sommer. But they which are ſituated under an unequal breadth or hight of the Pole, have alſo unequal length of dayes and nights: for the frarther à place is ſituated from the midleline, how the longeſt day is greater there, and the ſhorteſt les. As for ex<g ref="char:EOLhyphen"/>ample they who live under the Aequinoctial line, have day and night thorough the whole year alike long, without change. They who live on the breadth of 30 degrees, have the longeſt day, almoſt of 14 houres: on the breadth of 50 degrees, the longeſt day hath ſtifly 16 houres. Under the Northern Circle, which wee call Circules Arcticus, doth not the Sunne on the
+<pb facs="tcp:35638:3"/>
+longeſt day ſet or goe under the Horizon. On the breadth of 70 degrees doth not the Sunne ſet in 64 dayes: and ſo following the longed dayes encreaſſe till under the Pole, where in the whole year not more is then one day and one night, each con<g ref="char:EOLhyphen"/>tinuing one half year.</p>
+            <p>Further more the Earth is devided at this day in two great firm lands and parts, in <hi>Antiquam</hi> or old and <hi>Novam</hi> or new America, called the New World. The firſt called the Old World, becauſe it was onely known to the Ancient, have the ancient Deſcribers of the Earth devided again in three parts, towit, in <hi>Europa; Aſia,</hi> and <hi>Africa.</hi>
+            </p>
+            <p>EUROPE, hath in length 1200, and in bredth 675 Ger<g ref="char:EOLhyphen"/>man miles.</p>
+            <p>ASIA, contains in lenght 1800, and in bredth 1275 Ger<g ref="char:EOLhyphen"/>man miles.</p>
+            <p>AFRICA extendeth in length 1200, and in bredth 1050 German miles.</p>
+            <p>AMERICA is in length 1950, and in Bredth 1200 Ger<g ref="char:EOLhyphen"/>man miles.</p>
+            <p>Now we are to ſhew further what Kingdoms and countries there are in them, and what manner of commodities may be carried from the one to the other.</p>
+            <p>
+               <hi>Europe</hi> poſſeſſeth theſe Realms, the ſtate of the church, under the Pope of Rome, and further whole Italy; High-Germany, under the Emperour at vienna; Spain, France, England, Scot<g ref="char:EOLhyphen"/>land, Ireland, Iſland, Norway, Denmark, Swethland, Po<g ref="char:EOLhyphen"/>land, and Moſcovy, together with the Republick of venice, Swiſſerland, and the Netherlands; as yet Hungary, Walachia, Moldavia, Bulgaria, Romania, Dalmatia, Croatia, Greece, together with the Iſlands Majorca, Minorca, Ivica, Corſica, Sardinia, Sicily, and Candia</p>
+            <p>
+               <hi>Italy</hi> hath the Republick of Genoua, the Dukedom Mantoua, the ſtate of the church, the Republick of venice, the Kingdom of Naples, with the Iſlands Sicily, Corſica and Sardinia: and afford Silk, Camlet, Stammel, Fuſtian, Gold-and Silver-wire, Arms, Rice, Alum, Gall-nuts, Oil, Glas, and looking-glaſſes.</p>
+            <p>
+               <hi>Germany,</hi> Comprehendeth firſt three parts; as, that of ſe<g ref="char:EOLhyphen"/>ven Prince Electours, of Mentz, Treves, Collen, Branden<g ref="char:EOLhyphen"/>burg, Heidelburg, Saxony, Bavaria, beſides the Kingdom of Bohemia; ſecondly the Spiritual, and Worldly Princes, and thirdly the free Imperial-touns of the H. Romiſh Empire: beſi<g ref="char:EOLhyphen"/>des theſe three parts, there are yet to Kreitſen. De City of Spi<g ref="char:EOLhyphen"/>ra hath the higheſt Court of juſtice. The wares of this country are Gold, Silver, Copper, Tin, Lead, Alum, Quick-ſilver, Dying ſtufs, Wine, Wool, Ribband, Fuſtian and ſeveral ſorts of Arms</p>
+            <p>
+               <hi>Spain</hi> hath theſe Kingdoms; viz. Caſtile, Portugal, Al<g ref="char:EOLhyphen"/>garve, Andaluzia, Granada, Murcia, Valentia, Catalogne, Arragon, Naverre, Biſcaie, and Galicia; and they yeeld Wine, Oil, Rice, Limons, Oranges, Pomegranates, Licoriſh, Silk, Wool, Cork, Roſin, Steel, Iron and Arms. In Spain are ſeveral Archbiſhopricks, Biſhhopricks, and 22 univerſities.</p>
+            <p>
+               <hi>France,</hi> contained theſe Countries; Brittain, Normandy, Picardy, Champagne, la France, Beauce, Berry, Blaiſois, Vendoſme, Perche, Haſtinois, Senonois, Valois, le Maine, Touraine, Anjou, Poictou, Xantonge, Pirogort, Limoſin, Bourbonnois, Lionnois, Foreſt, Beaujolois, Auvergne, An<g ref="char:EOLhyphen"/>gouleſme, Auxerre, Nevers, Burgondy, Quercy, Gaſcoin, Languedock, Province, Daulphine, Bern, Lorain, Orange, Avignon, Savoy, &amp;c. And there is abundance of wheat, Rye, Oxen, Hogs, Salt, Oil, Wine, Cheſnuts, Almonds, Plumbs, Beads, Hemp, and Hides. In the ſame are ſeveral Archbiſhopricks and Biſhopricks, ſeven Parliaments, and 21 Univerſities.</p>
+            <p>
+               <hi>England</hi> conſiſteth in 39 Counties, to which come out of Wales 13 more to it; viz. Northumberland, Cumberland, Durham, Weſtmorland, Lancaſter, Cheſter, Carnarvonſhire, Dengibenſerſhire, Filint, Merionethſhire, Montgomeryſhire, Salop, Cardiganſhire, Radnor, Vigorny, Cornwal, Devon<g ref="char:EOLhyphen"/>ſhire, Somerſethſhire, Dorſeth, Wiltſhire, Gloceſter, Mon<g ref="char:EOLhyphen"/>mouth, Glamorgan, Carmarthen, Pembrook, Brecknock Hereford, York, Lincoln, Darby, Stafford Nottingham, Leiceſter, Rutland, Northfolk, Warnixſhire, Northamtonſhire, Huntinton, Cambridge, Suffolk, Oxford, Buckingham, Bedford<g ref="char:EOLhyphen"/>ſhire Herefordſhire, Eſſex, Berks, Middleſex, Southamton, Surry and Suſſex. It hath clothes, Stammel, Wheat, Saffran, Tin, Lead, Barly, Panick, Beer, Redharring and Coals.</p>
+            <p>
+               <hi>Scotland</hi> is devided in South or high, and North or low Scot<g ref="char:EOLhyphen"/>land, and ſeparated from England by the river Tweed; and there are two Archbiſhopricks, and eleven Biſhopricks: it yeel<g ref="char:EOLhyphen"/>deth Kerſy, Perpetuanas, Wool, Barly, Panick and Hides.</p>
+            <p>
+               <hi>Ireland</hi> conſiſteth in 5 Regions; viz. Langenia, Connacia, Ultonia, Mormonia, and Media: it hath 30 Earls, 4 Arch<g ref="char:EOLhyphen"/>biſhops, and 29 Biſhops, and yeeldeth Corn, Hides, and But<g ref="char:EOLhyphen"/>ter, &amp;c.</p>
+            <p>
+               <hi>Island</hi> is devided in Auſtlendiga Fiordung, Weſtlendiga Fior<g ref="char:EOLhyphen"/>dung, Northlendiga Fiordung, and Southlendiga Fiordung. This moſt Northerly Island hath one Governour, apointed by the King of Denmark, and exporteth Stockfiſh, Stockins, Brimſtone and Corn.</p>
+            <p>
+               <hi>Norway</hi> is devided in Scandia and Scandinovia. The City Anſlo in Norway is the place of the Biſhop; Bergen is a reno<g ref="char:EOLhyphen"/>uned mart-town. This Realm produceth Deal-boards, Sparres, Maſtes, Wood for Fewel and Hides.</p>
+            <p>
+               <hi>Denmark</hi> embraceth, Jutland, Funen, Sealand and Scho<g ref="char:EOLhyphen"/>nen or Sconia, beſides the Islands laying here about; and it yeeldeth Oxen, Barly, French-wheat, Stockfiſh, Tallow, Oker-nuts, Hides, Buck-skins, Maſtes, Timber, Fir-wood, Salt, Pitch, Tar, Brimſtone, &amp;c.</p>
+            <p>
+               <hi>Swethland</hi> is properly devided in the Gothlands Provinces, viz. Faſtgothia, Weſtgothia, Southgothia, or Smaland, Tuiſ<g ref="char:EOLhyphen"/>cia, verendia, Meringia and Oeland. The other Swethiſh Pro<g ref="char:EOLhyphen"/>vinces are upland Weſtmannia, Eaſtdalia, Soliciſdalia, War<g ref="char:EOLhyphen"/>meland, Geſtrica, Helſingia, Middle-padia, Nordangerman<g ref="char:EOLhyphen"/>nia, Nordbotnia, Scrienfinia, Lapland, Biarmia, Finland, Carelia and Ingria: the Commodities of it are Iron, Copper, Lead, Hides, Elks and Buck-skins, Tallow, Pitch, French-wheat, Barly, &amp;c.</p>
+            <p>
+               <hi>Poland</hi> is diſtinguiſhed in great and little Poland. The chief Cities in great Poland are, Poſna, Gneſna, Siradia, Uladiſlavia, Breſcia, Cruſphicia, Ploczſo, Dobrinia; in little Poland, Cra<g ref="char:EOLhyphen"/>cow, Sandomir, and Lublin It produced Rye, Wheat, Wax, Honey, Metheglin, Hides, Flax, Hemp, Pitch, Tar, Pot<g ref="char:EOLhyphen"/>aſhes, Timber, Spruce-beer, &amp;c.</p>
+            <p>
+               <hi>Muſcovy</hi> is devided in Black and white Ruſſia; the head City of it is Muſco: there is aboundance of Rye, Wheat, Wax, Hony, Tallow, Suet, Harts-skins, Ruſſia-leather, Flax, Hemp, &amp;c.</p>
+            <p>The <hi>Common-wealth of Venice</hi> hath 3 whole Countrits; viz. Marca Tarvi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>na, Friuli, Hiſtrica, beſides a part of Lombardia, laying on the river Po, viz. Breſcia, Bergomo, and verona, with the juriſdiction of Cremana. Their wares are Silks, Corn, Wine, and Glaſs.</p>
+            <p>
+               <hi>Switſerland</hi> is devided in four parts, viz. Zurichgow, Wip<g ref="char:EOLhyphen"/>flis, Burgergow, Argergow, and Turgergow: The Country conſiſteth in three parts; the firſt containeth 13 Villages, Called Cantons, the ſecond the confederated, viz. The Abot with the City S. Gall; the Third the Majoralities, which the Swit<g ref="char:EOLhyphen"/>zers have got. The fruits are Corn, Iron, and Wine.</p>
+            <p>All the <hi>Netherlands</hi> are devided in 10 Royal Provinces; viz. Artois, an Earldom, hath 10 Cities, and 754 Villages. 2 Hai<g ref="char:EOLhyphen"/>nalt, an Earldom, 24 Towns, and 950 Villages. 3. Namure, an Earldom, 4 Towns, 184 Villages. 4<g ref="char:punc">▪</g> Luxemburg, a Dukedom, 23 Towns, and 1168 Villages. 5. Limburg, a Dukedom, 23 Towns, 123 Villages. 6. Flanders, an Earldom, 30 Towns, 1154 Villages. 7. Brabant, a Dukedom, 26 Towns, 70<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Villa<g ref="char:EOLhyphen"/>ges. 8. Gelderland, a Dukedom, 22 Towns, 300 Villages. 9. Mechlin, a Barony, 1 Town, 9 Villages. 10. Antwerp, a Marquiſate, hath only one Town.</p>
+            <p>In the 7 <hi>Provinces under the States General,</hi> and his High<g ref="char:EOLhyphen"/>neſs the Prince of Orange, are 1. Gelderland, a Dukedom, with the Earldom Zutphen, have Towns and Villages as above.</p>
+            <p>2. The Earldom of Holland, hath 29. Towns, and 400 Villages.</p>
+            <p>3. The Earldom of Sealand, hath 9. Towns, and 105 Villages.</p>
+            <p>4. The Barony of Utrecht, hath 5. Towns, and 70 Villages.</p>
+            <p>5. The Barony of Frieſland, hath 11. Towns, and 409 Villages.</p>
+            <p>6. The Barony of Over-yſſel, hath 11. Towns, and 101 Villages.</p>
+            <p>7. The Barony of Groning, hath 1. Town, and 145 Villages.</p>
+            <p>Theſe <hi>Netherlands</hi> being the common Storehouſe, receive all the ſaid Commodities out of the above mentioned Realms, and deliver the ſame again to everyone by there renowned Naviga<g ref="char:EOLhyphen"/>tion over the ſeas. Otherwiſe theſe countries give many ſorts of corn out of there Boſom, Butter, Cheeſe, Flax Hemp, and more other wares.</p>
+            <p>As for <hi>Hungaria, Walachia, Moldavia, Bulgaria, Romania, Dalmatia, Greece,</hi> we paſs by for brevity.</p>
+            <p>ASIA Comprehendeth theſe following Realms: viz. Tar<g ref="char:EOLhyphen"/>taria, Natolia, Syria, Armenia, Arabia, Media, Aſſyria,
+<pb facs="tcp:35638:4"/>
+Perſia, Parthia, Sigiſtan, Coraſan, Chirman, India Guſaratte, China, Bengala, Malacco, &amp;c. Beſides theſe there are yet in<g ref="char:EOLhyphen"/>numerable Islands, of which the chifeſt are Japon, Sumatra, Java, Borneo, Celebes, Gilolo, Mindanao, Luconia, Ceilon, and Formoſa.</p>
+            <p>The Commodities which are tranſported out of Aſia in other Countries, are Pepper, Cloves, Nutmegs. Mace, Balm-oil, Fran<g ref="char:EOLhyphen"/>kincenſe, Rhobarb, Musk, Amber-greaſe, Bezar-ſtone, Silk, Porcelain, Pearls, Diamants, Rubies, Ciment or Plaiſter, Sealing wax, and Rice.</p>
+            <p>Theſe following Island produce ivery one by them ſelf, as fol<g ref="char:EOLhyphen"/>loweth; Java much Pepper; Banda Nutmegs and Mace, the nixt to them, viz. Motir, Machian, Bachian, Tidor, Amboina, Nutmegs; there are alſo Paradiſe-birds.</p>
+            <p>AFRICA is now adayes diſtinguiſhed in four parts; viz. in Barbary, Numidia, Lybia, and Aethiopia.</p>
+            <p>Under Barbary are theſe Realms; viz. Marocco, Fez. Tele<g ref="char:EOLhyphen"/>zin, and Tunis.</p>
+            <p>Uunder Numidia are comprehended, Gualata, Zanhaga, Zuenziga, Terga, Berdoä, Goöga, and Borno.</p>
+            <p>Under Lybia are Genehoa, Caniva, Tombuta, Agades, Ghur, Cono, Caſſena, Guangara, and Nubia.</p>
+            <p>Under Aethiopia are theſe Kingdoms, Milli, Maloguta, Man<g ref="char:EOLhyphen"/>dinga, Caragotes, Bengama, Dauma, Zegzeg, Benin Zanfara, Biafara, Medra, Tigrai, Ambian, Cantiva, Vangue, Danute, Gojame, Congo, Agiſcumba, Malemba, Matama, Bagame, Coveo, Butua, Maitachaſi, Canur, Moſambique, Gaſabela, Quiloa, Quara, Melind, Olabi, Magadoxa, Doara, Dangari, Lacca, Barnagaſſo, Dafilla, Ganfila, Coſſin, Bello, Guengari, Tigremahon, Angota, Beluguanze, Xoa, Cafates, and Fungi. Cape de Bona Eſperanza is the moſt ſouthern point of <hi>Africa.</hi>
+            </p>
+            <p>Out of all theſe Realms Comes forth Gold, Silver, Elephants-teeth, Wheat, Plaiſter, Salt, Crocodiles.</p>
+            <p>AMERICA, the fourth and laſt part of the World, firſt known by Chriſtoffel Columbes ſince the year 1492. is devided of the Weſt-Indies in North-and South-America.</p>
+            <p>The Realms or Countries in the Northern-America are, New-north-wales New-ſouth-wales, New-Britain, Terra Laborador, Terra Corteralis, Terraneuf, Canada, New-France, New-Netherland, Verginia, Florida, Calicuas, Capaſchi, Coſſa, Tagil, Marata, California, Aſtatlan, Mechi, Culiacona, New-Galitea, Panuco, Tutepeque, Tabaſco, Yucatan, Honduras and veragua; item the Islands, Cuba, Hiſpaniola, Porto Rico, and Jamaica, beſides the other little Islands there about.</p>
+            <p>The realms and Countries in the Southern-America are, S. Martha, New-Andaluſia, Guajana, Caribana, Arowacas, Epuremei, Braſilia, Xarayes, Moxos, Tucuman, China, Chili, Chicas, Valey de Xuxui, Peru, and the country of Patagones.</p>
+            <p>The wares of America are, Gold, Silver, Gems, Bezoar<g ref="char:EOLhyphen"/>ſtone, Sugar, Braſily-wood, Salſa-parilla, Cement or Plaiſter, Bevers-skins Plums of fethers, Apes, divers Gums, Indian Balm, &amp;c.</p>
+            <p>In theſe ſaid four parts of the Earth are alſo many ſorts of Birds, Beaſtes, Trees, and Plants: and under the earth diverſe Metals, Gems, Salt, Brimſtone, Salpeter, Funtain-waters, as alſo diverſe Fires, through the Mountains vomited out by nature.</p>
+            <p>Now we are to treat of the Seas, there names lengthes and bredthes and what in their bowels and Grounds is to be got.</p>
+            <p>The German-or North-ſea, laying next to us, containeth in length from Dovers and Cales (laying in the heads) to Hitland, 200, and its bredth 120 German miles.</p>
+            <p>The Baltick-or eaſt-ſea, is long 300, and broad 135. German miles.</p>
+            <p>The Ice-ſea, from Hitland to Greenland, is long 150. and broad 1200. German miles.</p>
+            <p>The white ſea between Labland and Moſcovy, is long 150. and Broad 30. German miles.</p>
+            <p>The Atlantick-ſea, or Great north-ſea Containeth in its length from Island to the un known Southland 1800. and in bredth 150. German miles.</p>
+            <p>The Mediterranean or Midland ſea is in length 745. and in bredth 150 German miles.</p>
+            <p>The Adriatick or Gulf of venice is long 120. and broad 35. Germam miles.</p>
+            <p>The Euxin or black ſea by Conſtantinopol hath in length 210. and in bredth 120 German miles.</p>
+            <p>The Perſian ſea is long 225. and broad 105. German miles.</p>
+            <p>The Indian ſea from the cape of good Hope, to the Islands de las veles, is long 1875. and broad from the city Ormus in Perſia to the unknown Southland 1200. German miles.</p>
+            <p>The red ſea is long 30. and broad 45. German miles.</p>
+            <p>The Perſian Inham about Ormus is in length 240. and in bredth 90. German miles.</p>
+            <p>Mare del zur, or the Peaceable ſea, (greateſt of all) is long from the Islands de las veles to the city Arica in Peru 2100. and broad from the cape Hondo in the northern America to the Southlands 1500. German miles.</p>
+            <p>The Tartarian ſea hath in its length 750. and in its bredth 45 German miles.</p>
+            <p>The fruits of the ſeas are alſo many ſorts, as one may ſee by the grounds of the ſame, viz. Red, White, and black; Coral, Pearls, Oiſters, Moſſels, Sea-ſcum, Little horns, Shels. In the ſea they find all kind of fiſhes, and in many parts like to the creatures, of the land.</p>
+            <p>Some folks were uſed to call for a fifth part of the World, <hi>Terra Auſtralis,</hi> or Magellanica, the countries Southward of the Strait Magellanes; but being the navigation of the Hollan<g ref="char:EOLhyphen"/>ders is known but few years in thoſe Countries, whereas they have fond moſt Islands, and no Continent that deſerveth ſuch a name, ſo think it ſuficient only to hint at it, unleſs they would reckon for <hi>Terra Auſtralis,</hi> the countries at the ſouth of <hi>Nova Guinea,</hi> moſt found in the year 1644. and are called in our Dutch Maps Hollandia, and Zelandia-Nova.</p>
+            <p>The Royal and Princely chief cities in the countries and King<g ref="char:EOLhyphen"/>doms, where the ſoverains of the World have their ſeats, are theſe:</p>
+            <p>The chief city in Italy is Rome, there the Pope hath his ſee.</p>
+            <p>Vienna or wien in Auſtria, above Germany, is the Keeper of the Imperial Crown and Scepter.</p>
+            <p>The city Madrid in Spain, viz. in the old Kingdom of Caſtilia, hath within its wals the Palace of the King of Spain. Becauſe the Kingdom of Portugal hath formerly revolted, and choſen a King for it ſelf, and the court Keeping of it is within the citty Liſſebon in Portugal, on the river Tagus.</p>
+            <p>The great city of Paris, in l'iſle de France in the Kingdom of France, hath the Palace <hi>de Louvre</hi> for a dweling of the King.</p>
+            <p>London in England, laying in the Earldom of Middleſex, hath alſo the Kings Palace for his Court-keeping in Weſtminſter.</p>
+            <p>Edenburg in Scotland hath been alſo formerly the ſeat of the Scotiſh Kings.</p>
+            <p>Dublin in Ireland hath the ſeat of the viceroy of that Kingdom.</p>
+            <p>Coppenhagen, a City in Denmark, laying on the Island Ze<g ref="char:EOLhyphen"/>land, embraceth alſo the Royal Palace.</p>
+            <p>Stockholm in Swethland is exalted, by the Palace (of the ſame Kingdom) being covered with Copper, laying in Upland.</p>
+            <p>Warſaw, a city in Poland, laying in the Dukedom Warſaw, is alſo exalted by the court-keeping of the King.</p>
+            <p>The city Moſco hath the mighty Palace and Courtkeeping of the Great-Lords or caars of Moſcovy, in the great Dukedom of Moſcovy.</p>
+            <p>For to behold right in a Map of the World the Earth and the ſeas, we are to obſerve, that the Middleline going right Eaſt and Weſt, is called the Aequinoctial Line, the crooked Circle going through the middle of it, the Zodiack, or the way of the Bon, the other circles going all Eaſt and weſt are called Parallel or even going circles, but the Circles going towards the north and the ſouth, Meridian-circles: by theſe they meaſure the bredth of the Countries, and ſeas, as well at the north, as at the ſouth of the Equinox, and by thoſe of the ſaid Parallel-Circles the length of the countries and ſeas, all which is to be ſeen in the Map of the world.</p>
+            <p>The Earth in its four parts reckoned together cometh to 10350 German miles; and the ſeas all together comprehendeth in 14 ſeas, come to 15695. German miles.</p>
+            <p>All this we have Jugded uſeful to ſhew here to the good Rea<g ref="char:EOLhyphen"/>der, hoping to give him here by yet ſome ſatisfaction, which we entreat that our zeal to ſerve him, may be acceptablely ta<g ref="char:EOLhyphen"/>ken. Farewell.</p>
+            <figure>
+               <figDesc>four circular maps: eastern and western hemispheres, north and south poles</figDesc>
+               <head>Nova Totius TERRARUM ORBIS TABULA <hi>Ex officina J: Robijn AMSTELODAMJ</hi>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>sea chart (map) of Europe with part of the coast of Africa (also including Iceland and part of Greenland)</figDesc>
+               <head>Pascaart van EUROPA, Als mede een gedeelt vande cuſt van Africa. Gedruckt en uÿtgegeven, tot Amſterdam Bij Pieter Goos.</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of Greenland, Iceland, the Davis Strait, and Jan Mayen Island, how one can sail to them from Shetland and the north coasts of Scotland and Ireland (also showing parts of the coast of Canada)</figDesc>
+               <head>Pascaerte van GROEN-LANDT, Yſlandt, Straet Davids en Ian Mayen ey<g ref="char:EOLhyphen"/>landt, hoe men de ſelvige van Hitlandt en de Noort custen van Schotlandt en Yrlandt beſeylen mach.</head>
+            </figure>
+            <figure>
+               <figDesc>Mercator chart (map) of the East Indies, including the east coast of Africa, Madagascar, coasts of Arabia, India, southeast Asia, and China; Japan and various Pacific islands, and part of Australia</figDesc>
+               <head>Nieuwe wasſende graet kaert van OOST INDIEN. van d. C. d. Bona Eſperanca tot t'Lant Eſo. T. Amsterdam. <hi>Gedruckt by I. Robyn.</hi>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the sea coasts of Russia, Lapland, Finmark (Finland and Scandinavia?), and Spitsbergen</figDesc>
+               <head>Pascaart <hi>Vande zeecuſten van RVSLANT, Laplant, Finmarcken, en Spitz<g ref="char:EOLhyphen"/>bergen</hi>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the Baltic Sea from the islands Rugen and Bornholm to Wyborg</figDesc>
+               <head>Pascaarte <hi>vande OOST-ZEE Van 't Eylandt Rugen, ofte Bornholm tot aen Wyborg. T'AMSTERDAM. Bij Pieter Goos Plaetſnÿder op't water in De Vergulde Zee<g ref="char:EOLhyphen"/>Spiegel. A<hi rend="sup">o</hi>. 1669.</hi>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the North Sea from Calais to Dronten (Norway) and between Dover and Shetland</figDesc>
+               <head>Pascaarte van de NOORT ZEE Vertenende van Caliz tot Dronten, als oock tuſchen Doeveren en Hitlandt. T'AMSTERDAM. Bij Pieter Goos Plaetſnijder op 't water in De Vergulde Zee<g ref="char:EOLhyphen"/>Spiegel. A<hi rend="sup">o</hi>. 1666</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the English Channel, including the coasts of England, Wales, Scotland and the Hebrides, Ireland, and part of France</figDesc>
+               <head>Pascaart vant CANAAL Begrypende in ſich En<g ref="char:EOLhyphen"/>gelandt, Schotlandt, en jerlandt, als mede een gedeelt van Francryck.</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) from Heysant (Ouessant or Ushant?) to Cadiz: west coast of France, Atlantic coasts of Portugal and Spain, straits of Gibraltar and parts of the Alboran Sea (western Mediterranean) as far as Berja and Melilla</figDesc>
+               <head>PASCAERT van HEYSANT <hi>tot</hi> CADIX <hi>Nuwelykx uyt Gegeven t'Amſterdam By</hi> Hendrick Goos. <hi>Zeecaert-maker.</hi>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the western Mediterranean Sea, from the Straits of Gibraltar to Corfu, including Corsica, Sardinia, Sicily, Italy, and North Africa; with a list of names of 98 islands, corners (capes or headlands), and harbors lying in the western part of the Mediterranean Sea</figDesc>
+               <head>PASKAERTE Van't Weſtelyckſte <hi>Der</hi> MIDDELAND<g ref="char:EOLhyphen"/>SCHE ZEE. <hi>Geſneden gedruckt en uytgegeven</hi> t'Amſterdam <hi>by Pieter Goos, op 't Water in de Vergulde Zee Spiegel.</hi>
+               </head>
+               <p>Namen van de Eylanden Hoecken and Havens gelegen in 't Weſtelycke-deel van de Middelandſche Zee</p>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the eastern Mediterranean Sea, from Italy and Tunisia east to the Levant, the Sea of Marmara and the Bosphorus Strait, with a list of names of 129 islands, corners (capes or headlands), and harbors lying in the eastern part of the Mediterranean Sea</figDesc>
+               <head>PASKAERTE Van't Ooſtelyckſte Der MIDDELAND<g ref="char:EOLhyphen"/>SCHE ZEE Geſneden, Gedruckt, en Uytgegeven t'Amſterdam by Pieter Goos, op't Water inde Vergulde Zee Spiegel</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the Barbary Coast (West Africa) from Lisbon and Cape St. Vincent to the Gambia and Cape Verde</figDesc>
+               <head>De Cuſt van BARBARIA, Gualata, Arguyn, en Gene<g ref="char:EOLhyphen"/>heo, van Capo S. Vincente tot Capo Verde</head>
+            </figure>
+            <figure>
+               <figDesc>new chart (map) of the Flemish Islands (Azores)</figDesc>
+               <head>Nieuwe Paſcaert Van de VLAEMSE EYLANDEN Waer in oock te ſien is Hoe haer de kusten in Zee Synde vertoone T'AMSTERDAM Gedruckt Bey I. Robyn.</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the Cape Verde islands</figDesc>
+               <head>Paſcaert VANDE SOUTE EYLANDEN ofte Ilbas de CABO VERDE Gedruckt bij J Robijn</head>
+            </figure>
+            <figure>
+               <figDesc>Mercator chart (map) of central part of the Atlantic ocean, with parts of the coasts of North and South America and Africa</figDesc>
+               <head>PASKAERT waer in de graden der breedde over weder zyden vande middelyn waſſende ſoo vergrooten, dat die geproportioneert ſyn tegen hunne nevenſtaende graden der lengde. Vertonende (behalven Europaes zuydelyckſte) een gedeelte vande cuſten van Africa en America, in't Octroy by de H.M.H. Staten Gen<hi rend="sup">l</hi>. der vereenichde Nederl. ver<g ref="char:EOLhyphen"/>leent aende Gen<hi rend="sup">le</hi>. Weſt Indiſche Comp. t'Amſterdam by Gerrit van Schagen boeck verkooper en Kaartmaker by de N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uwe Haarlemmer<g ref="char:EOLhyphen"/>Sluys inde Stuur man.</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of Newfoundland, New France (Quebec, New Brunswick), Nova Scotia, New England, and the Great River of Canada (St. Lawrence River)</figDesc>
+               <head>Pascaerte van TERRA NOVA NOVA FRANCIA NIEVW ENGELAND En de Groote Revier van CANADA</head>
+            </figure>
+            <figure>
+               <figDesc>general chart (map) of the West Indies from the Equator to Newfoundland</figDesc>
+               <head>Generaele Kaert van WEST INDIEN Vande Linie Aequinoctiael tot Benoorde Terra Neuf</head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the Caribbean islands, from the Grenadines to Anguilla</figDesc>
+               <head>Pascaerte Vande Caribes Eijlanden, Van 't Eijlant Granadillos, tot 't Eijlant Anguilla. Beſchreven door Arent Roggeveen.</head>
+            </figure>
+            <figure>
+               <figDesc>Mercator chart (map) of the sea coasts of Guinea and Brazil, from Cape Verde to Cape of Good Hope and from the Amazon River to Rio de la Plata</figDesc>
+               <head>Pascaarte Vande Zee custen van GUINEA: en BRASILIA van Cabo de Verde, tot C. de bona Eſperanca. en van R. de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Amazona tot Rio de la Plata, alles op Waſſende Graaden geſtelt. t' Amsterdam <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> JACOBUS ROBYN, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </head>
+            </figure>
+            <figure>
+               <figDesc>chart (map) of the Pacific showing the coast of North and South America, some Pacific Islands, parts of New Zealand, Australia, New Guinea, and Japan</figDesc>
+               <head>PASKAERTE Beſchreven door ARENT ROGGEVEEN Met Octroy van de H. M. Staten Generael over Zyn Geoctroyeerde Zuyt Zee t'Amſterdam By de Wed: Pieter Goos</head>
+            </figure>
+            <pb facs="tcp:35638:53"/>
+         </div>
+      </body>
+   </text>
+</TEI>
